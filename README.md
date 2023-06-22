@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+-->linkedin.com/in/zehra-ilpek-862b8b180
+
+
 # Zehra Ilpek
 
 London, England
