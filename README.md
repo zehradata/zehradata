@@ -59,7 +59,6 @@ I am a motivated professional looking to transition into the field of data scien
 
 ### KAYSERI STATE HOSPITAL-NUCLEAR MEDICINE PHYSICIST (March 2009 - Sept 2014)
 
-
 ## Education & Training
 
 - Hyperion Development Skills Bootcamp in Data Science (Mar 2023 - Jul 2023)
