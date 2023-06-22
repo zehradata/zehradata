@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 London, England
 Email: zehraiilpek@gmail.com
 Contact Number: +447557148031
-LinkedIn:linkedin.com/in/zehra-ilpek-862b8b180
 
 ## Summary
 
