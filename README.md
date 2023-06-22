@@ -13,15 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-# Zehra Ilpek
+ Zehra Ilpek
 
 London, England
 Email: zehraiilpek@gmail.com
 Contact Number: +447557148031
 
+[LinkedIn](https://www.linkedin.com/in/zehra-ilpek-862b8b180/)
+[HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/146631/)
+
 ## Summary
 
-I am a motivated professional looking to transition into the field of data science. With a background in Nuclear Medicine Physicist, I have developed a strong foundation in analytical thinking, problem-solving, and attention to detail. In pursuit of my career change, I have completed HyperionDev's Data Science Bootcamp. During this program, I gained hands-on experience with Python, Machine learning, Data Visualization, Natural Language Processing (NLP), and Jupyter Notebook. I am a collaborative team player who is dedicated to continuous learning and professional growth. Overall, I am confident that my background and passion for data science make me a strong candidate for any data science position.
+I am a motivated professional looking to transition into the field of data science. With a background in Nuclear Medicine Physics, I have developed a strong foundation in analytical thinking, problem-solving, and attention to detail. In pursuit of my career change, I have completed HyperionDev's Data Science Bootcamp, where I gained hands-on experience with Python, Machine learning, Data Visualization, Natural Language Processing (NLP), and Jupyter Notebook. I am a collaborative team player dedicated to continuous learning and professional growth. I believe my background and passion for data science make me a strong candidate for any data science position.
 
 ## Skills & Achievements
 
@@ -33,39 +36,38 @@ I am a motivated professional looking to transition into the field of data scien
 - Laboratory Management
 - Python
 - Machine Learning
-- Problem-Solving
+- Problem Solving
 - Health and Safety
 - Risk assessments
 - Gamma SPECT/CT
 - HTML, CSS
 - Gaussian 03W
 - Collaboration and Teamwork
+- Curiosity and Critical Thinking
 
 ## Professional Experience
 
-### Bursa Health Directorate - Programmer, Turkey (Sept 2020 - July 2022)
+### BURSA HEALTH DIRECTORATE-PROGRAMMER, Turkey (Sept 2020 - July 2022)
 
-...
+- Evaluating data entries from users and restructuring to match the requirements of the Personnel Health System.
+- Managing Personal Health System database, adding and modifying user information for login credentials.
+- Supplying technical support to users regarding Personal Health System.
+- Identifying and escalating application-level issues to relevant software specialists or external tech support.
+- Solving system problems for users by establishing a remote connection using programs such as Any Desk and Alpemix.
 
-### Kayseri State Hospital - Health and Safety Specialist (Sept 2014 - Sept 2015)
+### KAYSERI STATE HOSPITAL-HEALTH AND SAFETY SPECIALIST (Sept 2014 - Sept 2015)
 
-...
 
-### Kayseri State Hospital - Nuclear Medicine Physicist (March 2009 - Sept 2014)
+### KAYSERI STATE HOSPITAL-NUCLEAR MEDICINE PHYSICIST (March 2009 - Sept 2014)
 
-...
-
-### Sivas Sizir High School (Sept 2008 - March 2009)
-
-...
 
 ## Education & Training
 
-- Hyperion Development Skills Bootcamp in Data Science (March 2023 - July 2023)
-- ESOL English Course, London South East Colleges (September 2022 - July 2023)
-- Level 1 Health and Social Care, Southwark College, London (September 2022 - January 2023)
-
-...
+- Hyperion Development Skills Bootcamp in Data Science (Mar 2023 - Jul 2023)
+- Master's degree in physics teaching (without thesis), Institute of Educational Sciences, Gazi University, Ankara (2007)
+- Master's degree in physics, Institute of Science, Gazi University, Ankara (2006-2008)
+- Bachelor's degree in physics, Faculty of Sciences, Gazi University, Ankara (2005)
+- 
 
 ## Interests & Hobbies
 
