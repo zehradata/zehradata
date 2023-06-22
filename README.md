@@ -74,3 +74,10 @@ I am a motivated professional looking to transition into the field of data scien
 - Language learning
 - Photography
 - Outdoor Activities
+
+  <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
