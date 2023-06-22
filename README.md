@@ -77,5 +77,3 @@ I am a motivated professional looking to transition into the field of data scien
 - Outdoor Activities
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
-
-
