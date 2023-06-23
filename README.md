@@ -14,18 +14,13 @@ https://www.linkedin.com/in/zehra-ilpek-862b8b180/)
 
 ## Summary
 
-I am a motivated professional looking to transition into the field of data science. With a background in Nuclear Medicine Physics, I have developed a strong foundation in analytical thinking, problem-solving, and attention to detail. In pursuit of my career change, I have completed HyperionDev's Data Science Bootcamp, where I gained hands-on experience with Python, Machine learning, Data Visualization, Natural Language Processing (NLP), and Jupyter Notebook. I am a collaborative team player dedicated to continuous learning and professional growth. I believe my background and passion for data science make me a strong candidate for any data science position.
+I am a motivated professional looking to transition into the field of data science. I have completed HyperionDev's Data Science Bootcamp, where I gained hands-on experience with Python, Machine learning, Data Visualization, Natural Language Processing (NLP), and Jupyter Notebook. 
 
 ## Skills
-- Scientific thinking
 - Data visualization
 - Jupyter Notebook
 - Python
 - Machine Learning
-- Problem-Solving
 - HTML, CSS
-- Gaussian 03W
-- Collaboration and Teamwork
-- Curiosity and Critical Thinking
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
