@@ -1,15 +1,15 @@
 ### Hi there 👋
 
  
- Zehra Ilpek
+Zehra Ilpek
 
 London, England
 Email: zehraiilpek@gmail.com
 Contact Number: +447557148031
 
 ![image](https://github.com/zehradata/zehradata/assets/137109982/d4e7fcce-8a57-4415-845c-56e09d84ceae)
+https://www.linkedin.com/in/zehra-ilpek-862b8b180/)
 
-](https://www.linkedin.com/in/zehra-ilpek-862b8b180/)
 [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/146631/)
 
 ## Summary
